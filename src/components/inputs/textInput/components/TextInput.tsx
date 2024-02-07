@@ -76,7 +76,7 @@ export const TextInput = (props: Props) => {
         class="my-2 ml-2"
         on:click={submit}
       >
-        <span style={{ 'font-family': 'Poppins, sans-serif' }}>Send</span>
+        <span style={{ 'font-family': 'Inter, sans-serif' }}>Send</span>
       </SendButton>
     </div>
   );

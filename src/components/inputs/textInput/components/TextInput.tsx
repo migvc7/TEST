@@ -51,7 +51,7 @@ export const TextInput = (props: Props) => {
       style={{
         'border-top': '1px solid #eeeeee',
         position: 'absolute',
-        left: '20px',
+        left: '21px',
         right: '20px',
         bottom: '40px',
         margin: 'auto',
